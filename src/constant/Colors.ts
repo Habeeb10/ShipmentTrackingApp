@@ -1,0 +1,29 @@
+export const linear = '#4F3D56';
+export const magenta = '#DDDDDD';
+export const pink = '#FF2156';
+export const orange = '#FFA451';
+export const deepblue = '#27214D';
+export const lightgray = '#5D577E';
+export const gray = '#F3F1F1';
+export const deepgray = '#C2BDBD';
+export const grey = '#E5E5E5';
+export const deepgrey = '#86869E';
+export const lightorange = '#FFF2E7';
+export const white = '#FFFFFF';
+export const violet = '#F3F4F9';
+export const purple = '#938DB5';
+export const vanilla = '#FEF0F0';
+export const wheat = '#F1EFF6';
+export const transparent = '#333333';
+export const black = '#000000';
+export const green = '#4CD964';
+export const lightgreen = '#E0FFE5';
+export const milk = '#FFFAEB';
+export const deeporange = '#EC7B15';
+export const darkgreen = '#013220';
+export const disables = '#A6A6A6';
+
+export const manatee = '#8F92B2';
+export const dark = '#121212';
+
+export const peach = '#F2F2F2';
